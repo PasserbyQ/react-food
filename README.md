@@ -38,14 +38,10 @@ utils----工具函数<br/>
 <br/>
 
 ### 在线预览（手机扫码效果更佳）
-<br/>
+
 [在线预览](https://passerbyq.github.io/react-food/build/#/)
-<br/>
-<br/>
 
 <img src="./screenshot/scan.png" width="20%">
-<br/>
-<br/>
 
 ### 项目截图
 
