@@ -1,0 +1,31 @@
+.search-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    height: 32px;
+    border-radius: 16px;
+    background-color: #f7f7f7;
+
+
+
+    .image {
+        margin-left: 16px;
+        width: 20px;
+        height: 20px;
+    }
+
+    .placeholder {
+        margin-left: 10px;
+        color: #bfbfbf;
+    }
+
+    .input {
+        margin: 0 8px;
+    }
+}

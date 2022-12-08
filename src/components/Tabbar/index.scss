@@ -1,0 +1,14 @@
+.tabbar-container {
+    height: calc(100vh - 50px);
+    overflow: auto;
+}
+
+.tabbar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    .adm-tab-bar-item-active {
+        color: $red;
+    }
+}
